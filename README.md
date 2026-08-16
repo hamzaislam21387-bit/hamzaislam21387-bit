@@ -50,7 +50,6 @@ Currently building with the **MERN stack** and gradually moving toward more prod
 ### ☁️ Cloud & File Storage
 
 * **Cloudinary**
-* **ImageKit**
 * Image upload handling with **Multer**
 * Cloud-hosted image URLs
 * **MongoDB Atlas** cloud database
@@ -89,7 +88,6 @@ Currently building with the **MERN stack** and gradually moving toward more prod
 
 * **C++**
 * **C#**
-* **Python**
 
 My main development focus right now is **JavaScript + the MERN stack**.
 
@@ -97,28 +95,6 @@ My main development focus right now is **JavaScript + the MERN stack**.
 
 # 🚀 Projects
 
-### 📱 Moments — Full-Stack Social Media App
-
-A full-stack social-media-style application built from scratch using the MERN stack.
-
-**Tech:** React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Mongoose • JWT • Cookies • bcrypt • Multer • Cloud Image Storage
-
-**Features:**
-
-* User registration and login
-* JWT-based authentication
-* Cookie-based auth
-* Protected routes
-* CRUD functionality
-* REST API integration
-* MongoDB database
-* Image uploads
-* Cloud image storage
-* React authentication context
-
-> One of my main projects for learning how a real frontend and backend communicate together.
-
----
 
 ### 📝 Notes App
 
@@ -154,24 +130,6 @@ A React weather application that consumes an external weather API.
 
 ---
 
-### ✈️ Voyago — Travel Agency Website
-
-A React travel agency website focused on reusable components and client-side routing.
-
-**Tech:** React • Vite • Tailwind CSS • React Router
-
-**Features:**
-
-* Responsive landing page
-* Hero section
-* Destination cards
-* Why Choose Us section
-* Navigation
-* Destination page
-* Search form
-* Reusable components
-
----
 
 ### 🧮 Calculator
 
@@ -187,13 +145,6 @@ A React implementation of the classic Tic Tac Toe game.
 
 **Tech:** React • JavaScript
 
----
-
-### 💰 Expense Splitter
-
-A frontend project for splitting expenses between multiple people.
-
-**Tech:** React • JavaScript • Tailwind CSS
 
 ---
 
