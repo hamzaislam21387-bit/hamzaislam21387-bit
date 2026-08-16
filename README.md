@@ -148,14 +148,6 @@ Tech: React • JavaScript
 
 ---
 
-💰 Expense Splitter
-
-A frontend project for splitting expenses between multiple people.
-
-Tech: React • JavaScript • Tailwind CSS
-
----
-
 📚 What I'm Currently Learning
 
 I'm currently going deeper into:
