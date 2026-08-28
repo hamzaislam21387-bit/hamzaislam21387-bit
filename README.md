@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hamza Khan
+# 👋 Hey, I'm Hamza Islam
 
 ### 💻 Full-Stack Web Developer | MERN Stack | BSCS Student
 
