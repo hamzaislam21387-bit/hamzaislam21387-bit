@@ -222,24 +222,6 @@ I’m especially interested in opportunities where I can work on **real products
 📍 Based in Pakistan
 🌐 Open to remote opportunities
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaislam21387-bit&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaislam21387-bit&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamzaislam21387-bit/hamzaislam21387-bit/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
 
 # 🤝 Let's Connect
 
@@ -247,12 +229,10 @@ I’m especially interested in opportunities where I can work on **real products
   <a href="https://github.com/hamzaislam21387-bit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/hamza-islam-1b1956283">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
