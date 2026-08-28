@@ -106,8 +106,6 @@ I enjoy building applications that go beyond basic UI projects — especially sy
 
 **This project represents my move from individual frontend projects into larger full-stack systems involving authentication, authorization, database relationships, API design, and application architecture.**
 
-> 🚧 Repository / live demo links will be added here.
-
 ---
 
 ## 📸 Moments — MERN Social Media Application
