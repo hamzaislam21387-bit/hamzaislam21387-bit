@@ -10,9 +10,9 @@ Currently focused on strengthening my **backend, cloud, and software engineering
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:hamzaislam21387@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hamzaislam21387@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
