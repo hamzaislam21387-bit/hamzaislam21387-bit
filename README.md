@@ -6,13 +6,11 @@ I build **practical, full-stack web applications** with a focus on clean interfa
 Currently focused on strengthening my **backend, cloud, and software engineering skills** while looking for opportunities to contribute to real products and grow as a developer.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/hamza-islam-1b1956283">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+
+  <a href="mailto:hamzaislam21387@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
