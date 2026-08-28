@@ -1,31 +1,25 @@
 # 👋 Hey, I'm Hamza Islam
+### 💻 Full-Stack Web Developer · MERN Stack · BSCS Student
 
-### 💻 Full-Stack Web Developer | MERN Stack | BSCS Student
+I build **practical, full-stack web applications** with a focus on clean interfaces, REST APIs, authentication, databases, and real-world application workflows.
 
-I’m a **BSCS student and aspiring full-stack developer** focused on building practical web applications with modern JavaScript technologies.
+Currently focused on strengthening my **backend, cloud, and software engineering skills** while looking for opportunities to contribute to real products and grow as a developer.
 
-I started with frontend development and gradually moved into backend development, APIs, authentication, databases, cloud services, and deployment. My current focus is becoming a stronger **MERN-stack developer** while building real-world projects that solve actual problems.
-
-I’m currently looking for opportunities where I can **learn from experienced developers, contribute to real products, and grow as a software engineer.**
-
----
-
-## 🚀 What I Build
-
-I enjoy building applications that go beyond basic UI projects — especially systems involving:
-
-* 🔐 Authentication & authorization
-* 🛡️ Role-based access control
-* 🔌 REST APIs
-* 🗄️ Database-driven applications
-* ☁️ Cloud-based image storage
-* 📱 Responsive interfaces
-* 🚀 Full-stack deployment
-* ⚙️ Backend architecture & API integration
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -38,24 +32,24 @@ I enjoy building applications that go beyond basic UI projects — especially sy
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### Database & Authentication
-
-<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
+
+### Authentication & APIs
+
+<p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-003B57?style=for-the-badge" />
 </p>
 
-### Tools & Services
+### Tools & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -77,149 +71,133 @@ I enjoy building applications that go beyond basic UI projects — especially sy
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
 ## 🎓 EduPortal — School Management System
 
-**A full-stack MERN school management platform designed to handle different users, academic workflows, and administrative operations.**
+> A full-stack MERN school management platform designed around real-world academic and administrative workflows.
 
-### ⚙️ Built With
+**Tech:** `React 19` · `Vite` · `Tailwind CSS v4` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT`
 
-`React 19` · `Vite` · `Tailwind CSS v4` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT`
+### What I Built
 
-### ✨ Highlights
-
-* 🔐 JWT authentication using HTTP-only cookies
-* 👥 Role-based access control
-* 👨‍💼 Admin workflows
-* 👨‍🏫 Teacher functionality
-* 🎓 Student/Parent functionality
-* 🗄️ Multiple interconnected MongoDB models
-* 📊 Student, teacher, class and academic data management
+* 🔐 JWT authentication using **HTTP-only cookies**
+* 👥 **Role-based access control** for Admin, Teacher, and Student/Parent users
+* 🔌 **42 REST API endpoints**
+* 🎓 Student and teacher management
+* 🏫 Class management
 * 📅 Attendance management
 * 📝 Marks management
 * 💰 Fee management
-* 📢 Announcements
-* 🔌 **42 API endpoints**
+* 📢 Announcement system
+* 🗄️ Multiple interconnected MongoDB models
 * 🛡️ Centralized Express error handling
 * 🌐 CORS configuration with credential support
 
-**This project represents my move from individual frontend projects into larger full-stack systems involving authentication, authorization, database relationships, API design, and application architecture.**
+### Why It Matters
+
+EduPortal represents my move from individual frontend projects into a **larger full-stack application**, requiring authentication, authorization, database design, API architecture, and interconnected application workflows.
+
+**Status:** 🚧 Project completed; repository/demo links coming soon.
 
 ---
 
 ## 📸 Moments — MERN Social Media Application
 
-**A full-stack social-media-style application built to practice real-world authentication, authorization, media handling, and REST API development.**
+> A full-stack social-media-style application built around authentication, authorization, media uploads, and REST API development.
 
-### ⚙️ Built With
+**Tech:** `React` · `Vite` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Cloudinary`
 
-`React` · `Vite` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Cloudinary`
+### What I Built
 
-### ✨ Highlights
-
-* 🔐 User registration & login
-* 🍪 JWT authentication with HTTP-only cookies
+* 🔐 User registration and login
+* 🍪 JWT authentication with **HTTP-only cookies**
 * 🛡️ Protected routes
 * 👤 User profiles
-* 📝 Creating posts with captions
-* 🖼️ Image uploads
+* 📝 Post creation
+* 🖼️ Image uploads with Cloudinary
 * ❤️ Likes
 * 💬 Comments
-* 🗑️ Ownership-based post authorization
+* 🗑️ Ownership-based authorization
 * 🔌 REST API architecture
+* ⏳ Loading states
 * 📱 Responsive frontend
-* ⏳ Loading/skeleton states
-* ☁️ Cloudinary image storage
-* 🚀 Deployed frontend and backend
+* ☁️ Cloud-based media storage
+* 🚀 Deployed frontend
 
-### 🌐 Live
+### Links
 
-**Frontend:** https://moments-dun.vercel.app
-
-**Repository:** https://github.com/hamzaislam21387-bit/Moments-frontend
+<p>
+  <a href="https://moments-dun.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/hamzaislam21387-bit/Moments-frontend">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ✈️ Voyago — Travel Agency Website
 
-A responsive travel-agency website built while developing my frontend skills.
+A responsive travel-agency website built while developing my React and modern frontend development skills.
 
-**Stack:** `React` · `Vite` · `Tailwind CSS`
+**Tech:** `React` · `Vite` · `Tailwind CSS`
+
+* 📱 Responsive UI
+* 🧩 Component-based architecture
+* 🎨 Tailwind-based styling
+* ⚡ Vite development workflow
 
 ---
 
 ## 🌦️ Weather App
 
-A frontend application using an external weather API to retrieve and display weather information.
+A lightweight weather application that consumes an external weather API and dynamically displays weather information.
 
-**Stack:** `HTML` · `CSS` · `JavaScript` · `API Integration`
+**Tech:** `HTML` · `CSS` · `JavaScript` · `REST API`
 
 ---
 
 ## 📝 Notes App
 
-A lightweight browser-based notes application with client-side persistence.
+A browser-based notes application with client-side persistence.
 
-**Stack:** `HTML` · `CSS` · `JavaScript` · `localStorage`
-
----
-
-# 📈 My Development Journey
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-Vite + Tailwind
-     ↓
-Node.js + Express
-     ↓
-MongoDB + Mongoose
-     ↓
-REST APIs
-     ↓
-JWT Authentication
-     ↓
-Authorization & Role-Based Access
-     ↓
-Cloudinary
-     ↓
-Full-Stack Deployment
-     ↓
-Building Larger Production-Style Systems
-```
-
-I’m currently focusing on improving my understanding of **backend architecture, databases, APIs, deployment, and cloud technologies** while continuing to build full-stack projects.
+**Tech:** `HTML` · `CSS` · `JavaScript` · `localStorage`
 
 ---
 
-# 🎯 Currently Learning
+# 📚 Currently Learning
 
-* ☁️ AWS & cloud fundamentals
-* 🐳 Docker
-* 🏗️ Better backend architecture
-* 🔌 REST API design
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+Currently expanding my knowledge in:
+
+* ☁️ Cloud computing & AWS
+* 🐳 Docker & containerization
 * 🗄️ SQL & PostgreSQL
+* 🏗️ Backend architecture
 * 🚀 Deployment & production practices
-* 📚 Writing cleaner and more maintainable code
+* 🔌 API design
+* 🧹 Writing cleaner, maintainable code
 
 ---
 
-# 💼 Open To Opportunities
+# 💼 Open to Opportunities
 
-I’m currently interested in:
+I'm currently looking for opportunities as a:
 
-**Junior Web Developer · MERN Stack Developer · Full-Stack Developer · Software Development Internships**
+**Junior Web Developer · MERN Stack Developer · Full-Stack Developer · Software Engineering Intern**
 
-I’m especially interested in opportunities where I can work on **real products, collaborate with experienced developers, and continue developing my backend and full-stack engineering skills.**
+I'm especially interested in working on **real products**, collaborating with experienced developers, and growing through hands-on engineering experience.
 
-📍 Based in Pakistan
-🌐 Open to remote opportunities
+🌐 **Open to remote opportunities**
 
+---
 
 # 🤝 Let's Connect
 
@@ -227,14 +205,14 @@ I’m especially interested in opportunities where I can work on **real products
   <a href="https://github.com/hamzaislam21387-bit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hamza-islam-1b1956283">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 💡 Building. Learning. Shipping.
-
-**I'm not trying to know everything — I'm trying to build something better every time I code.**
+### ⚡ Build. Learn. Ship. Repeat.
